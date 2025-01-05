@@ -1,7 +1,7 @@
 # Android Basics - Content Providers (Image Access)
 This project demonstrates how to access and display images stored in the external storage of an Android device using the `MediaStore` content provider. The app requests the necessary permissions, queries the `MediaStore`, and displays images that were taken within the last 30 days in a scrollable list using Jetpack Compose.
 
-For a detailed explanation of the code and how it works, check out the [Medium article](https://medium.com/@maheraizen1/accessing-and-displaying-images-from-external-storage-in-android-using-contentproviders-bd0dbf84b051) on ContentProviders in Android.
+For a detailed explanation of the code and how it works, check out the [Medium article](https://medium.com/@RhoumaMaher/accessing-and-displaying-images-from-external-storage-in-android-using-contentproviders-bd0dbf84b051) on ContentProviders in Android.
 
 ## Features
 * Request permission to access media images.
@@ -41,7 +41,7 @@ On Android 13 and above, the app requests the permission at runtime. For devices
 * **Coil:** An image loading library for Android, used for asynchronous image loading in `AsyncImage`.
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code for your own projects. Happy coding! If you have any questions or suggestions, feel free to reach out.
-* **Medium:** [My Medium Profile](https://medium.com/@maheraizen1)
+* **Medium:** [My Medium Profile](https://medium.com/@RhoumaMaher)
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/maher-rhouma-581919199/)
   
 Let’s connect and discuss all things Android!
